@@ -1,1 +1,1 @@
-const o="/logo.png";export{o as _};
+const o=""+new URL("../logo.png",import.meta.url).href;export{o as _};
