@@ -1,1 +1,1 @@
-const o="/MetaVue/logo.png";export{o as _};
+const o="/logo.png";export{o as _};
