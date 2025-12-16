@@ -1,0 +1,1 @@
+import{d as e,F as o,G as r}from"./arco.31164f47.js";import{_ as t}from"./index.ec13b3f4.js";import"./chart.0656511d.js";import"./vue.85c125e1.js";const n=e({name:"FrameBlank"});function a(s,c,m,p,i,_){return o(),r("div")}const u=t(n,[["render",a]]);export{u as default};
